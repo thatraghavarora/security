@@ -72,6 +72,3 @@ The input should be **escaped** and rendered as text, not interpreted as HTML.
 
 This issue highlights the importance of **output encoding in dynamic content systems** like chatbots. While this injection does not execute scripts directly, it lays the groundwork for more serious vulnerabilities. I recommend reviewing similar user-reflective areas across the platform.
 
----
-
-Would you like a version of this in PDF, Markdown, or GitHub issue template format too?
